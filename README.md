@@ -1,7 +1,9 @@
 # TEQUILA SHOTS Binder
 Run TEQUILA SHOTS using Binder!
 
-###()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/burke86/tequila_shots_binder/master?filepath=tequila.ipynb)
+
+### [Launch Binder](https://mybinder.org/v2/gh/burke86/tequila_shots_binder/master?filepath=tequila.ipynb)
 
 This repository contains the code to read TEQUILA SHOTS pipeline output and analyze the result with Lightkurve. Re-running the pipeline or running new objects is not supported.
 
