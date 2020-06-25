@@ -1,0 +1,9 @@
+numpy
+matplotlib
+astropy
+astroquery
+Cython
+ccdproc
+photutils
+lightkurve
+tess-point
